@@ -1,0 +1,6 @@
+task_id,task_name,phase,assigned_to,target_date,status,risk_level
+TSK-101,Procure 200 cellular & SC1000 satellite units,Procurement,Supply Chain Team,2026-03-01,Completed,Low
+TSK-102,Customs clearance at Jebel Ali Port,Procurement,Logistics Coordinator,2026-03-08,In Progress,Medium
+TSK-103,Schedule technician bay slots (Dubai Depot),Installation,Field Ops Lead,2026-03-12,Pending,Low
+TSK-104,Install hardware on Fleet Batch A (Trucks 1-100),Installation,Field Tech Team A,2026-03-25,Pending,High
+TSK-105,Client sign-off and functional testing,Commissioning,Project Coordinator,2026-04-05,Pending,Low
